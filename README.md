@@ -1,10 +1,3 @@
-/**
- * DouyinClearScreen v1.0
- * 
- * Author: COOKIEODD
- * Homepage: https://github.com/cookieodd/DouyinClearScreen
- */
-
 **Douyin Version**: 37.6.0  
 **Total Views**: 582
 
